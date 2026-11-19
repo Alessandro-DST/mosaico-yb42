@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Challenge data (provided by Mosaico, not redistributed here)
+*.mcap
+*.zip
+__MACOSX/
+
+# Personal scratch notes
+note
